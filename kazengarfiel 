@@ -1,0 +1,7 @@
+#include<studio.h>
+void main ()
+{
+int main;
+printf("_:");
+scanf("%d",main);
+}
